@@ -32,4 +32,4 @@ Python, FastAPI, LangGraph, LangChain, RAG, vector databases, scikit-learn, Tens
 
 AI/ML Engineer, Generative AI Engineer, Agentic AI Developer, or Backend AI Engineer roles where I can build useful AI systems end to end.
 
-[LinkedIn](https://www.linkedin.com/in/saitejaai/) | [GitHub](https://github.com/saitejakaripe)
+[LinkedIn](https://www.linkedin.com/in/saitejaai/) | [GitHub](https://github.com/saitejakaripe) | [Email](mailto:saitejakaripe4@gmail.com)
